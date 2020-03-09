@@ -1,0 +1,64 @@
+Package: com.licht.batterypercentageenabler
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: licht
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.batterypercentageenabler_1.0.0_iphoneos-arm.deb
+Size: 2822
+MD5sum: 1548b1e15d048833753995f20fcc5127
+SHA1: f4ffcd5b5017888a8b749a9cfac1863261394890
+SHA256: 04c04399fa84ab72e176c177706be9c4b5f5074643ff67f64c787b499d17f73b
+Section: Tweaks
+Description: For notch devices.
+Author: licht
+Name: BatteryPercentageEnabler
+
+Package: com.licht.gridswitcherfor12
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: licht
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.gridswitcherfor12_1.0.4_iphoneos-arm.deb
+Size: 2360
+MD5sum: 38933e14a8bfc39b5226bba4cdb52c2c
+SHA1: 92a1d2609d9183ad24db14f7560a288c82a00bb4
+SHA256: 8484e51998e95287637885fee20c4721e882c0ff49ac99b84276f99a15a375c1
+Section: Tweaks
+Description: GridSwitcher for A12 device.
+Author: licht
+Name: GridSwitcher for A12
+
+Package: com.licht.lineadkiller
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: licht
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.lineadkiller_1.0.0_iphoneos-arm.deb
+Size: 2706
+MD5sum: a17211b33b927b7df8d5b5e2e959195c
+SHA1: 93cc6e719a1462a129d83bb30ea8aaca2bbc77cf
+SHA256: 2cc38d8562f10a1a88bd7298c5bd5dc88b83623ce7ec866e62e1032161903f26
+Section: Tweaks
+Description: Hide ads in the chats list.
+Author: licht
+Name: LINEAdKiller
+
+Package: com.licht.twinkleaddisabler
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: licht-jb
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.twinkleaddisabler_1.0.1-1_iphoneos-arm.deb
+Size: 2454
+MD5sum: 2f1030d2d33180f43ed34248767364bb
+SHA1: 3d2b455e93b4d88ae143b9fe56c135fbcf072fcf
+SHA256: 6eac206ef8cbb45bfc69b651716419741bb22bcef66967f24f9fa6808f3e187c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: licht-jb
+Name: TwinkleAdDisabler
+
