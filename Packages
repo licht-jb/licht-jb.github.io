@@ -46,6 +46,22 @@ Description: Hide ads in the chats list.
 Author: licht
 Name: LINEAdKiller
 
+Package: com.licht.ngcb
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: licht_jb
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.ngcb_1.0.0-2_iphoneos-arm.deb
+Size: 2362
+MD5sum: b2e43282fa624f2fabee09c0ddcd267b
+SHA1: 51db76b4099af803bad00c2e0042a153d4aebb1f
+SHA256: c3cf7154e3a3b277cf4cf40fa6143fb9b60eac0a391347b7a28167d1cbda0298
+Section: Tweaks
+Description: Disable welcome banner.
+Author: licht_jb
+Name: NoGameCenterBanner
+
 Package: com.licht.twinkleaddisabler
 Version: 1.0.1-1
 Architecture: iphoneos-arm
