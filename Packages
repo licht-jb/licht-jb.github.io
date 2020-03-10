@@ -1,16 +1,16 @@
 Package: com.licht.gridswitcherfora12
-Version: 1.0.0-1
+Version: 1.0.1-4
 Architecture: iphoneos-arm
 Maintainer: licht-jb
-Installed-Size: 136
+Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/com.licht.gridswitcherfora12_1.0.0-1_iphoneos-arm.deb
-Size: 2424
-MD5sum: 586471cdcf189548867f0cc9c1ddad6b
-SHA1: bc0409e5a2ab9e2a52d6782e156565d0864e8baf
-SHA256: 486dddd3eb628b673fd717401c49f9aa6141e0ffb233bf8ef9187e01e8b5a464
+Filename: ./debs/com.licht.gridswitcherfora12_1.0.1-4_iphoneos-arm.deb
+Size: 4796
+MD5sum: 9bfcb6ebdc904cbc814436377d12000b
+SHA1: 28e34b33758fbf4ac7ee79825a7edf3fdcbf8748
+SHA256: 6919c608c6ee6a39c5ec595e571edc9d66fbf7488c26aca92ac034f6c76ea69d
 Section: Tweaks
-Description: Blocking ad request and hide ad.
+Description: GridSwitcher for arm64 and arm64e.
 Author: licht-jb
 Name: GridSwitcherForA12
 
