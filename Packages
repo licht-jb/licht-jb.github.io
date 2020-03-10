@@ -14,52 +14,36 @@ Description: For notch devices.
 Author: licht
 Name: BatteryPercentageEnabler
 
-Package: com.licht.gridswitcherfor12
-Version: 1.0.4
+Package: com.licht.gridswitcherfora12
+Version: 1.0.0-1
 Architecture: iphoneos-arm
-Maintainer: licht
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.licht.gridswitcherfor12_1.0.4_iphoneos-arm.deb
-Size: 2360
-MD5sum: 38933e14a8bfc39b5226bba4cdb52c2c
-SHA1: 92a1d2609d9183ad24db14f7560a288c82a00bb4
-SHA256: 8484e51998e95287637885fee20c4721e882c0ff49ac99b84276f99a15a375c1
-Section: Tweaks
-Description: GridSwitcher for A12 device.
-Author: licht
-Name: GridSwitcher for A12
-
-Package: com.licht.lineadkiller
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: licht
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.licht.lineadkiller_1.0.0_iphoneos-arm.deb
-Size: 2706
-MD5sum: a17211b33b927b7df8d5b5e2e959195c
-SHA1: 93cc6e719a1462a129d83bb30ea8aaca2bbc77cf
-SHA256: 2cc38d8562f10a1a88bd7298c5bd5dc88b83623ce7ec866e62e1032161903f26
-Section: Tweaks
-Description: Hide ads in the chats list.
-Author: licht
-Name: LINEAdKiller
-
-Package: com.licht.ngcb
-Version: 1.0.0-2
-Architecture: iphoneos-arm
-Maintainer: licht_jb
+Maintainer: licht-jb
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.licht.ngcb_1.0.0-2_iphoneos-arm.deb
-Size: 2362
-MD5sum: b2e43282fa624f2fabee09c0ddcd267b
-SHA1: 51db76b4099af803bad00c2e0042a153d4aebb1f
-SHA256: c3cf7154e3a3b277cf4cf40fa6143fb9b60eac0a391347b7a28167d1cbda0298
+Filename: ./debs/com.licht.gridswitcherfora12_1.0.0-1_iphoneos-arm.deb
+Size: 2424
+MD5sum: 586471cdcf189548867f0cc9c1ddad6b
+SHA1: bc0409e5a2ab9e2a52d6782e156565d0864e8baf
+SHA256: 486dddd3eb628b673fd717401c49f9aa6141e0ffb233bf8ef9187e01e8b5a464
+Section: Tweaks
+Description: Blocking ad request and hide ad.
+Author: licht-jb
+Name: GridSwitcherForA12
+
+Package: com.licht.ngcb
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: licht-jb
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.ngcb_1.0.3-1_iphoneos-arm.deb
+Size: 2358
+MD5sum: 454a16b0617bf4b78146c0eec23a4332
+SHA1: a05068304e202446c700b30499337eeeb96510f9
+SHA256: 079eba4dce547031bde37e097c42f4372ef8022bc6fb77dbd968f47082b4f34c
 Section: Tweaks
 Description: Disable welcome banner.
-Author: licht_jb
+Author: licht-jb
 Name: NoGameCenterBanner
 
 Package: com.licht.twinkleaddisabler
