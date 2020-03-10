@@ -31,18 +31,18 @@ Author: licht-jb
 Name: NoGameCenterBanner
 
 Package: com.licht.twinkleaddisabler
-Version: 1.0.1-1
+Version: 2.0.0-1
 Architecture: iphoneos-arm
 Maintainer: licht-jb
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.licht.twinkleaddisabler_1.0.1-1_iphoneos-arm.deb
-Size: 2454
-MD5sum: 2f1030d2d33180f43ed34248767364bb
-SHA1: 3d2b455e93b4d88ae143b9fe56c135fbcf072fcf
-SHA256: 6eac206ef8cbb45bfc69b651716419741bb22bcef66967f24f9fa6808f3e187c
+Filename: ./debs/com.licht.twinkleaddisabler_2.0.0-1_iphoneos-arm.deb
+Size: 2458
+MD5sum: ff2a35a5ddbc47efc99f0f36108a2bd3
+SHA1: e49836620662d596171800cfda3b7f22df542e62
+SHA256: 07c0b824f4bed0dedcee0aac0bab1432fefc9f0845ffa439a3c51cd114dd2b2a
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Blocking ad request and hide ad.
 Author: licht-jb
 Name: TwinkleAdDisabler
 
