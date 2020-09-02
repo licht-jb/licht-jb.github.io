@@ -62,6 +62,22 @@ Description: Disable parallax effect. Tested on iOS13.3.
 Author: licht-jb
 Name: NoParallax
 
+Package: com.licht.noparallax11
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: licht-jb
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.licht.noparallax11_1.0.0_iphoneos-arm.deb
+Size: 2786
+MD5sum: 821af06735b9eec728f05a77c4cc24d8
+SHA1: 866def2a039d8fd8890cd1749b1eaaff1f25bc38
+SHA256: 5a8aeca334c1346d4dc4cbb2586d39fcae068512d868953067ab84cb21ba852d
+Section: Tweaks
+Description: Disable parallax effect. Tested on iOS11.
+Author: licht-jb
+Name: NoParallax11
+
 Package: com.licht.twinkleaddisabler
 Version: 2.0.0-1
 Architecture: iphoneos-arm
