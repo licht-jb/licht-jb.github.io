@@ -85,10 +85,10 @@ Maintainer: licht-jb
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/com.licht.noparallax11_1.0.1_iphoneos-arm.deb
-Size: 2792
-MD5sum: ca9677383ac6ac22f0f9593837e9d81c
-SHA1: be291e4364976ce62fb37e153944b4f69bd8fad1
-SHA256: a41194442b142f067186f063955781672732fb725244d07ae10470023a62512c
+Size: 2798
+MD5sum: 3d21520b94e79637de314e939185c3bf
+SHA1: 15c5ca8f87808e63efc7728581fe2a978658ae1d
+SHA256: adf9591fd9ebe69f9ab2d79a8ce07347f9daa0d59585357068775df43bd7cf38
 Section: Tweaks
 Description: Disable parallax effect. Tested on iOS11.
 Author: licht-jb
