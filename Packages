@@ -1,14 +1,14 @@
 Package: com.licht.gridswitcher13
-Version: 1.0.0-1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Maintainer: licht-jb
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.licht.gridswitcher13_1.0.0-1_iphoneos-arm.deb
-Size: 2848
-MD5sum: 8e2c14fc2b1cd146b557786924e80f04
-SHA1: 577fe361d5cf0b907002802d04d4a9d25decfc38
-SHA256: 4e6936bf6c4434976535a6242d3386a2c5ead4e741327d8c8866fe705297a1dd
+Filename: ./debs/com.licht.gridswitcher13_1.0.1_iphoneos-arm.deb
+Size: 2854
+MD5sum: 75c729b4614c16cb25fd01db87fb960e
+SHA1: ee448cae42d3846c01090f208e13384dbc14f5ef
+SHA256: 6adeeea9c613dafb8b41c1d80378587810a50878fecd4e7f9556016fd93774eb
 Section: Tweaks
 Description: Grid switcher for iOS13 devices. Tested on iOS13.3, but expectly works 13.0 to 13.7.
 Author: licht-jb
