@@ -135,6 +135,7 @@
     html.term section h2::after { font: 14px/1.75 var(--mono); color: var(--muted); }
     html.term #security h2::after { content: "ls security/"; }
     html.term #projects h2::after { content: "ls projects/"; }
+    html.term #writing h2::after { content: "ls writing/"; }
     html.term .section-note { margin: 0 0 16px; font-size: 14px; }
     html.term .section-note::before { content: "# "; }
     html.term .cve-list li, html.term .card {
@@ -185,9 +186,20 @@
           <div class="cve-body">
             <b>SwiftUI</b> — An out-of-bounds write that could let an app cause unexpected system termination. Fixed with improved input validation.
             <div class="meta"><a href="https://support.apple.com/en-us/149230#:~:text=CVE%2D2026%2D112691">iOS / iPadOS 27.2</a> · <a href="https://support.apple.com/en-us/149227#:~:text=CVE%2D2026%2D112691">iOS / iPadOS 26.7.2</a> · <a href="https://support.apple.com/en-us/149525#:~:text=CVE%2D2026%2D112691">watchOS 27.2</a> · <a href="https://support.apple.com/en-us/149526#:~:text=CVE%2D2026%2D112691">visionOS 27.2</a> · Oct 2026</div>
+            <div class="meta"><a href="/posts/cve-2026-112691.html">Read the write-up →</a></div>
           </div>
         </li>
       </ul>
+    </section>
+
+    <section id="writing">
+      <h2>Writing</h2>
+
+      <article class="card">
+        <h3><a href="/posts/cve-2026-112691.html">Reaching RenderBox from an ordinary widget</a></h3>
+        <p>How a normally signed third-party widget places a controlled heap overwrite inside Apple's system widget renderer, and where the allocator and PAC stop the escalation.</p>
+        <div class="tags"><span class="tag">CVE-2026-112691</span><span class="tag">iOS</span><span class="tag">RenderBox</span><span class="tag">Nov 2026</span></div>
+      </article>
     </section>
 
     <section id="projects">
